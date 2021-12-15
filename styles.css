@@ -10,7 +10,7 @@
 .hero{
     width: 100%;
     height: 100vh;
-    background-image: url('/Assets/cover.jpg');
+    background-image: url('/cover.jpg');
     background-size: cover;
     border-bottom: 2px solid white;
 }
@@ -113,9 +113,8 @@
 }
 
 .about-us{
-    background-image: url('/Assets/aboutus.jpg');
+    background-image: url('/aboutus.jpg');
     background-size:cover;
-    /* width: 100vw; */
     overflow-x: hidden;
 }
 
@@ -131,7 +130,6 @@
 .blur{
             background: rgba(255, 255, 255, 0.1); 
             backdrop-filter: blur(10px);
-            /* height: 100vh; */
             padding: 1rem;
             width: 100%;
             filter: invert(2px);
@@ -178,7 +176,7 @@
 }
 
 .products{
-    background-image: url('/Assets/aboutus.jpg');
+    background-image: url('/aboutus.jpg');
     background-size: cover;
     border-bottom: 2px solid white;
 }
@@ -195,12 +193,7 @@
     font-size: 3rem;
     font-weight: 8000;
     padding-top: 1rem;
-    background-color: rgba(255, 255, 255, 0.6); 
-    /* backdrop-filter: blur(10px); */
-    /* height: 100vh; */
-    /* padding: 1rem; */
-    /* width: 100%; */
-    /* filter: invert(2px); */
+    background-color: rgba(255, 255, 255, 0.6);
 }
 
 .cards{
@@ -250,7 +243,7 @@
 }
 
 .bottom{
-    background-image: url('/Assets/aboutus.jpg');
+    background-image: url('/aboutus.jpg');
     background-size: cover;
     color: #fff;
     
